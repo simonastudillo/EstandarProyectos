@@ -18,3 +18,6 @@ Laravel ofrece una curva de aprendizaje amigable, documentación extensa y una c
 
 3. **Configuración inicial de base de datos**  
    Revisa los pasos para conectar Laravel a la base de datos en [database-config.md](./database-config.md).
+   
+4. **Configuración del entorno (.env)**  
+   Establece variables como entorno de ejecución, clave de aplicación y ajustes recomendados en [environment.md](./environment.md).

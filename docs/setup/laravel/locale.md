@@ -1,6 +1,7 @@
 # 🌐 Configuración de Idioma en Laravel
 
 Esta guía explica cómo configurar Laravel para que use el idioma español por defecto, incluyendo los textos de validación, faker y los archivos de traducción.
+
 ---
 
 > 🔗 [Volver al índice de configuración inicial](./index.md)  

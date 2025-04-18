@@ -1,6 +1,7 @@
 # 🔗 Configuración de Base de Datos en Laravel
 
 Esta guía detalla cómo conectar tu proyecto Laravel a una base de datos local utilizando `.env` y Artisan.
+
 ---
 
 > 🔗 [Volver al índice de configuración inicial](./index.md)  

@@ -1,6 +1,11 @@
 # 🔗 Configuración de Base de Datos en Laravel
 
 Esta guía detalla cómo conectar tu proyecto Laravel a una base de datos local utilizando `.env` y Artisan.
+---
+
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Configurar idioma (locale)](./locale.md)  
+> ⏭️ [Ir al paso 4: Configuración del entorno (.env)](./environment.md)
 
 ---
 
@@ -8,16 +13,16 @@ Esta guía detalla cómo conectar tu proyecto Laravel a una base de datos local 
 
 Abre el archivo `.env` en la raíz del proyecto y ajusta los siguientes valores:
 
-```dotenv
-DB_CONNECTION=mariadb
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=example
-DB_USERNAME=root
-DB_PASSWORD=
-```
+   ```dotenv
+   DB_CONNECTION=mariadb
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE=example
+   DB_USERNAME=root
+   DB_PASSWORD=
+   ```
 
-> 📌 Asegúrate de que la base de datos `example` exista antes de ejecutar las migraciones.
+> 📌 Asegúrate de que la base de datos `nombre_de_tu_base` exista antes de ejecutar las migraciones.
 
 ---
 
@@ -27,9 +32,9 @@ DB_PASSWORD=
 
 2. Ejecuta el comando:
 
-```bash
-php artisan migrate
-```
+   ```bash
+   php artisan migrate
+   ```
 
 > Esto creará las tablas definidas en `/database/migrations`.
 
@@ -58,3 +63,9 @@ php artisan migrate:fresh
 ```
 
 > ⚠️ Elimina **todas** las tablas. **No ejecutar en producción.**
+
+---
+
+🔎 **Ejemplo real del proyecto:**  
+Podés ver un `.env` configurado en el repositorio:  
+- [`.env`](./examples/.env)

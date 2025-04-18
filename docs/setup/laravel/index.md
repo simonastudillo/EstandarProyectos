@@ -8,25 +8,41 @@ Laravel ofrece una curva de aprendizaje amigable, documentación extensa y una c
 
 ---
 
-# 📋 Configuración Inicial
+# ⚙️ Configuración Inicial
 
 1. [Comenzar un nuevo proyecto](./new-project.md)
-
-2. [Configurar idioma a español](./locale.md)
-
-3. [Configuración inicial de base de datos](./database-config.md)
-
+2. [Configurar idioma a español (locale)](./locale.md)
+3. [Configuración de base de datos](./database-config.md)
 4. [Configuración del entorno (.env)](./environment.md)
 
+---
 
-# 🧩 Desarrollo con Laravel
+# 🛠️ Setup Personalizado
 
-1. [Migraciones y estructura de tablas](./migrations.md)
+5. [Comando personalizado: make:model modular](./make-model-command.md)
+6. [Comando personalizado: make:request modular](./make-request-command.md)
+7. [Comando personalizado: make:controller modular](./make-controller-command.md)
+8. [Configuración del RouteServiceProvider](./route-provider.md)
 
-2. [Modelos y relaciones](./models.md)
+---
 
-3. [Seeders y datos de prueba](./seeders-and-factories.md)
+# 🧱 Estructura del Proyecto
 
-4. [Rutas con resource y apiResource](./routes.md)
+9. [Migraciones y estructura de tablas](./migrations.md)
+10. [Modelos y relaciones](./models.md)
+11. [Aplicar SoftTraits y tokens automáticos](./eloquent-crud.md)
+12. [Factories y generación de datos](./seeders-and-factories.md)
+13. [Seeders con datos base](./seeders-and-factories.md)
+14. [Form Requests y validación personalizada](./requests.md)
+15. [Definición de rutas API (`api.php`)](./routes.md)
+16. [Controladores por módulo](./controllers.md)
 
-5. [Operaciones CRUD con Eloquent](./eloquent-crud.md)
+---
+
+# 🔁 Flujo de actualización (cuando cambia la base de datos)
+
+- [Actualizar migraciones](./migrations.md)
+- [Actualizar modelos](./models.md)
+- [Actualizar factories y seeders](./seeders-and-factories.md)
+- [Actualizar requests](./requests.md)
+- [Actualizar controladores](./controllers.md)

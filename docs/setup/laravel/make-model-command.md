@@ -4,6 +4,7 @@ Laravel, por defecto, genera los modelos en la carpeta `app/Models`. Para proyec
 
 ---
 
+> 📌 Este archivo forma parte del proceso de configuración inicial de comandos Artisan personalizados.  
 > 🔗 [Volver al índice de configuración inicial](./index.md)  
 > 🔙 [Volver al paso anterior: Configuración del entorno (.env)](./environment.md)
 > ⏭️ [Ir al paso 6: Comando personalizado: make:request modular](./make-request-command.md)

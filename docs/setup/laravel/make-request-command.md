@@ -6,7 +6,7 @@ Laravel genera los archivos `FormRequest` dentro de `app/Http/Requests` por defe
 
 > 📌 Este archivo forma parte del proceso de configuración inicial de comandos Artisan personalizados.  
 > 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Comando personalizado: make:request modular](./make-request-command.md)
+> 🔙 [Volver al paso anterior: Comando personalizado: make:model modular](./make-model-command.md)
 > ⏭️ [Ir al paso 7: Comando personalizado: make:controller modular](./make-controller-command.md)
 
 ---

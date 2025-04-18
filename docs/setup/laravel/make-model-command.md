@@ -59,7 +59,7 @@ En lugar de la ruta por defecto `app/Models`.
 
    ```php
    protected $commands = [
-       \App\Console\Commands\ModelMakeCommand::class,
+      \App\Console\Commands\ModelMakeCommand::class,
    ];
    ```
 

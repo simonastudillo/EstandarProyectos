@@ -4,8 +4,8 @@ Los Form Requests permiten manejar validaciones de forma estructurada y reutiliz
 
 ---
 
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Seeders con datos base](./seeders.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Seeders con datos base](./seeders.md)  
 > ⏭️ [Ir al paso 15: Definición de rutas API (`api.php`)](./routes.md)
 
 ---

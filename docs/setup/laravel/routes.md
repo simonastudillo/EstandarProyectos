@@ -4,8 +4,8 @@ En esta guía se documenta cómo definir rutas limpias y estructuradas para una 
 
 ---
 
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Form Requests y validación personalizada](./requests.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Form Requests y validación personalizada](./requests.md)  
 > ⏭️ [Ir al paso 16: Controladores por módulo](./controllers.md)
 
 ---

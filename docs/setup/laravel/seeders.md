@@ -4,8 +4,8 @@ Los seeders permiten poblar la base de datos con datos iniciales o de prueba. Se
 
 ---
 
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Factories y generación de datos](./factories.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Factories y generación de datos](./factories.md)  
 > ⏭️ [Ir al paso 14: Form Requests y validación personalizada](./requests.md)
 
 ---

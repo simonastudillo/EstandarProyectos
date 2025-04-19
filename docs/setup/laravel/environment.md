@@ -5,7 +5,7 @@ Esta guía cubre las variables esenciales del entorno que se configuran en el ar
 ---
 
 > 🔗 [Volver al índice de configuración inicial](./index.md)  
-> 🔙 [Volver al paso anterior: Configuración de base de datos](./database-config.md)
+> 🔙 [Volver al paso anterior: Configuración de base de datos](./database-config.md)  
 > ⏭️ [Ir al paso 5: Comando personalizado: make:model modular](./make-model-command.md)
 
 ---

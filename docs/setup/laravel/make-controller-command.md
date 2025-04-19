@@ -5,8 +5,8 @@ Laravel crea controladores por defecto dentro de `app/Http/Controllers`. En un p
 ---
 
 > 📌 Este archivo forma parte del proceso de configuración inicial de comandos Artisan personalizados.  
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Comando personalizado: make:request modular](./make-request-command.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Comando personalizado: make:request modular](./make-request-command.md)  
 > ⏭️ [Ir al paso 8: Configuración del RouteServiceProvider](./route-provider.md)
 
 ---

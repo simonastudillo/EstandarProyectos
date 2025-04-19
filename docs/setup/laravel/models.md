@@ -4,8 +4,8 @@ Esta guía detalla cómo definir modelos en Laravel, aplicando una estructura mo
 
 ---
 
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Migraciones y estructura de tablas](./migrations.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Migraciones y estructura de tablas](./migrations.md)  
 > ⏭️ [Ir al paso 11: Aplicar SoftTraits y tokens automáticos](./traits-and-tokens.md)
 
 ---

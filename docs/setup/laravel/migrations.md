@@ -4,8 +4,8 @@ En esta guía se documenta cómo crear y modificar tablas en Laravel mediante mi
 
 ---
 
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Configuración del RouteServiceProvider](./route-provider.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Configuración del RouteServiceProvider](./route-provider.md)  
 > ⏭️ [Ir al paso 10: Modelos y relaciones](./models.md)
 
 ---

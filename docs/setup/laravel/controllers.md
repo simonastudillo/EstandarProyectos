@@ -4,8 +4,8 @@ Esta guía explica cómo organizar controladores dentro de una estructura modula
 
 ---
 
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Definición de rutas API (`api.php`)](./routes.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Definición de rutas API (`api.php`)](./routes.md)  
 > ⏭️ [Ir al paso 17: Flujo de actualización](./update-flow.md)
 ---
 

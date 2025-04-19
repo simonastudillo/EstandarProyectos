@@ -4,8 +4,8 @@ Esta sección explica cómo integrar soft deletes personalizados (`is_active`) y
 
 ---
 
-> 🔗 [Volver al índice de configuración inicial](./index.md)
-> 🔙 [Volver al paso anterior: Modelos y relaciones](./models.md)
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> 🔙 [Volver al paso anterior: Modelos y relaciones](./models.md)  
 > ⏭️ [Ir al paso 12: Factories y generación de datos](./factories.md)
 
 ---

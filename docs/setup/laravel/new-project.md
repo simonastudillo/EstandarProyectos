@@ -6,6 +6,11 @@ Esta guía detalla los pasos recomendados para crear un nuevo proyecto Laravel s
 
 ---
 
+> 🔗 [Volver al índice de configuración inicial](./index.md)  
+> ⏭️ [Ir al paso 2: Configuración de idioma (locale)](./locale.md)
+
+---
+
 ## ✅ Requisitos Previos
 
 ### XAMPP
@@ -45,7 +50,7 @@ Esta guía detalla los pasos recomendados para crear un nuevo proyecto Laravel s
 2. Ejecuta el comando:
 
    ```bash
-   laravel new nombre-de-tu-app
+   laravel new pokedex
    ```
 
 ---
@@ -83,7 +88,3 @@ Durante el proceso de instalación de Laravel, se recomienda lo siguiente:
    ```bash
    Would you like to run npm install and npm run build? yes
    ```
-
----
-
-📌 Para configurar el idioma del proyecto a español, sigue la guía en [locale.md](./locale.md).

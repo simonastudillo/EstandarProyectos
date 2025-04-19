@@ -30,9 +30,9 @@ Laravel ofrece una curva de aprendizaje amigable, documentación extensa y una c
 
 9. [Migraciones y estructura de tablas](./migrations.md)
 10. [Modelos y relaciones](./models.md)
-11. [Aplicar SoftTraits y tokens automáticos](./eloquent-crud.md)
-12. [Factories y generación de datos](./seeders-and-factories.md)
-13. [Seeders con datos base](./seeders-and-factories.md)
+11. [Aplicar SoftTraits y tokens automáticos](./traits-and-tokens.md)
+12. [Factories y generación de datos](./factories.md)
+13. [Seeders con datos base](./seeders.md)
 14. [Form Requests y validación personalizada](./requests.md)
 15. [Definición de rutas API (`api.php`)](./routes.md)
 16. [Controladores por módulo](./controllers.md)
@@ -41,8 +41,11 @@ Laravel ofrece una curva de aprendizaje amigable, documentación extensa y una c
 
 # 🔁 Flujo de actualización (cuando cambia la base de datos)
 
+17. [Flujo de actualización](./update-flow.md)
 - [Actualizar migraciones](./migrations.md)
 - [Actualizar modelos](./models.md)
-- [Actualizar factories y seeders](./seeders-and-factories.md)
+- [Actualizar factories](./factories.md)
+- [Actualizar seeders](./seeders.md)
 - [Actualizar requests](./requests.md)
+- [Actualizar rutas](./routes.md)
 - [Actualizar controladores](./controllers.md)

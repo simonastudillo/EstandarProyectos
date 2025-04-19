@@ -6,7 +6,7 @@ Los factories permiten generar datos aleatorios de prueba o desarrollo, útiles 
 
 > 🔗 [Volver al índice de configuración inicial](./index.md)
 > 🔙 [Volver al paso anterior: Aplicar SoftTraits y tokens automáticos](./traits-and-tokens.md)
-> ⏭️ [Ir al paso 12: Seeders con datos base](./seeders.md)
+> ⏭️ [Ir al paso 13: Seeders con datos base](./seeders.md)
 
 ---
 

@@ -6,8 +6,6 @@ use App\Http\Controllers\Controller;
 use App\Modules\Pokedex\Models\PokemonModel;
 use App\Modules\Pokedex\Requests\SavePokemonRequest;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Log;
 
 class PokedexController extends Controller
 {
@@ -25,9 +23,7 @@ class PokedexController extends Controller
 
    public function store(SavePokemonRequest $request)
    {
-      $validatedData = $request->validated();
-
-      $pokemon = PokemonModel::create($validatedData);
+      $pokemon = PokemonModel::create($request->validated());
       return response()->json([
          'message' => 'Pokémon created successfully',
          'data' => $pokemon

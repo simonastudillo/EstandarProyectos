@@ -88,7 +88,3 @@ Durante el proceso de instalación de Laravel, se recomienda lo siguiente:
    ```bash
    Would you like to run npm install and npm run build? yes
    ```
-
----
-
-¿Listo? Continúa con el [paso 2: Configurar idioma a español](./locale.md).

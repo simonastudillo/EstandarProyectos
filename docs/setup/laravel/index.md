@@ -41,6 +41,7 @@ Laravel ofrece una curva de aprendizaje amigable, documentación extensa y una c
 
 # 🔁 Flujo de actualización (cuando cambia la base de datos)
 
+17. [Flujo de actualización](./update-flow.md)
 - [Actualizar migraciones](./migrations.md)
 - [Actualizar modelos](./models.md)
 - [Actualizar factories](./factories.md)

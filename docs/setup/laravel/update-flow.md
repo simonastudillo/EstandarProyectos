@@ -4,7 +4,7 @@ Cuando se agregan o modifican campos en una tabla existente, es importante mante
 
 ---
 
-> 🔗 [Volver al índice de desarrollo](./index.md)
+> 🔗 [Volver al índice de desarrollo](./index.md)  
 > 🔙 [Volver al paso anterior: Controladores por módulo](./controllers.md)
 
 ---

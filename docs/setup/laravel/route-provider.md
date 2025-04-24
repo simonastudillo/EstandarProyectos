@@ -4,6 +4,7 @@ Laravel utiliza el `RouteServiceProvider` para registrar archivos de rutas. En p
 
 ---
 
+
 > 🔗 [Volver al índice de configuración inicial](./index.md)  
 > 🔙 [Volver al paso anterior: Comando personalizado: make:controller modular](./make-controller-command.md)  
 > ⏭️ [Ir al paso 9: Migraciones y estructura de tablas](./migrations.md)
